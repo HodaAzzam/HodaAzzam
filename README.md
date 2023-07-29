@@ -3,9 +3,9 @@
 
 A student in Biomedical Engineering Department-Cairo university :woman_technologist: :classical_building:
 
-I’m currently working on AI and Fullstack Mobile Development Projects :iphone:
+I’m currently working on AI and Fullstack Mobile Development Projects :robot: :iphone: 
 
-Enthusiast about Tech and open for collabrations 🔭
+Enthusiast about Tech and open for collabrations 🔭✨
 
 
 ## 🧰 Languages and Tools:
@@ -30,8 +30,8 @@ Enthusiast about Tech and open for collabrations 🔭
 ## ✉️ Find me on: 📫
 
 <p align="center">
- <a href="https://www.linkedin.com/in/hoda-azzam" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="hoda.s.azzam@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/hoda-azzam" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="hoda.s.azzam@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
