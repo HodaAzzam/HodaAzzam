@@ -1,7 +1,7 @@
 ## Hi there, I'm Hoda Azzam :nerd_face:👋
 ![giphy](https://github.com/HodaAzzam/HodaAzzam/assets/100151668/d0bc4857-8977-479e-a0e3-665cb27217f7)
 
-A student in Biomedical Engineering Department-Cairo university :woman_technologist: :classical_building:
+Student in Biomedical Engineering Department-Cairo university :woman_technologist: :classical_building:
 
 I’m currently working on AI and Fullstack Mobile Development Projects :robot: :iphone: 
 
